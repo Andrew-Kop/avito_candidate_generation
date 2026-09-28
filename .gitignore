@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# project folders and files
+data/
+emb_cache/
+*.parquet
+*.npy
+EDA_and_baseline.ipynb
+
 # Distribution / packaging
 .Python
 build/
